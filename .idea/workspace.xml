@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7906801-b8e4-48c1-b3fa-718580fe568a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode-go.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/sort_list_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/list/sort_list_test.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list/reverse_list_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#14#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/list/sort_list_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="52" column="36" lean-forward="true" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list/common.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/go/src/sort/sort.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4005">
+              <caret line="267" column="20" selection-start-line="267" selection-start-column="20" selection-end-line="267" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Greedy/buy_sell_stoeks_test.go" />
+        <option value="$PROJECT_DIR$/greedy/buy_sell_stoeks_test.go" />
+        <option value="$PROJECT_DIR$/dynamic/pa_lou_ti_test.go" />
+        <option value="$PROJECT_DIR$/list/revers_list_test.go" />
+        <option value="$PROJECT_DIR$/list/reverse_list_test.go" />
+        <option value="$PROJECT_DIR$/list/common.go" />
+        <option value="$PROJECT_DIR$/list/sort_list_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="203" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode-go" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-go" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-go" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-go" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestSortList in leetcode-go/list">
+    <configuration name="TestMigong in leetcode-go/dynamic" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-go" />
+      <working_directory value="$PROJECT_DIR$/dynamic" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode-go/dynamic" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMigong$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSortList in leetcode-go/list" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-go" />
+      <working_directory value="$PROJECT_DIR$/list" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode-go/list" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSortList$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_reverse in leetcode-go/list" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-go" />
+      <working_directory value="$PROJECT_DIR$/list" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode-go/list" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_reverse$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="buy_sell_stoeks_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-go" />
+      <working_directory value="$PROJECT_DIR$/Greedy" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="leetcode-go" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/Greedy/buy_sell_stoeks_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestSortList in leetcode-go/list" />
+        <item itemvalue="Go Test.Test_reverse in leetcode-go/list" />
+        <item itemvalue="Go Test.TestMigong in leetcode-go/dynamic" />
+        <item itemvalue="Go Test.buy_sell_stoeks_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMigong_in_leetcode-go_dynamic - 2021.01.13 at 22h 35m 37s.xml">
+      <configuration name="TestMigong in leetcode-go/dynamic" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_reverse_in_leetcode-go_list - 2021.01.14 at 21h 50m 30s.xml">
+      <configuration name="Test_reverse in leetcode-go/list" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_reverse_in_leetcode-go_list - 2021.01.14 at 21h 51m 51s.xml">
+      <configuration name="Test_reverse in leetcode-go/list" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_reverse_in_leetcode-go_list - 2021.01.14 at 21h 53m 40s.xml">
+      <configuration name="Test_reverse in leetcode-go/list" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_reverse_in_leetcode-go_list - 2021.01.14 at 21h 53m 50s.xml">
+      <configuration name="Test_reverse in leetcode-go/list" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSortList_in_leetcode-go_list - 2021.01.14 at 22h 28m 23s.xml">
+      <configuration name="TestSortList in leetcode-go/list" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSortList_in_leetcode-go_list - 2021.01.14 at 22h 28m 44s.xml">
+      <configuration name="TestSortList in leetcode-go/list" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSortList_in_leetcode-go_list - 2021.01.14 at 22h 29m 49s.xml">
+      <configuration name="TestSortList in leetcode-go/list" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSortList_in_leetcode-go_list - 2021.01.14 at 22h 30m 45s.xml">
+      <configuration name="TestSortList in leetcode-go/list" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSortList_in_leetcode-go_list - 2021.01.14 at 22h 32m 25s.xml">
+      <configuration name="TestSortList in leetcode-go/list" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="203" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19009584" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946752" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946752" weight="0.32970297" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.32970297" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/greedy/buy_sell_stoeks_test.go" />
+    <entry file="file:///usr/local/go/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="1238" selection-start-line="1238" selection-end-line="1238" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic/pa_lou_ti_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="e#17#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="1006" column="66" lean-forward="true" selection-start-line="1006" selection-start-column="66" selection-end-line="1006" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/sort/sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4005">
+          <caret line="267" column="20" selection-start-line="267" selection-start-column="20" selection-end-line="267" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/reverse_list_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/sort_list_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="36" lean-forward="true" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
