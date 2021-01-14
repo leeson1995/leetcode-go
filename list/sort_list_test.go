@@ -31,7 +31,7 @@ func mergeList(l, r *ListNode) *ListNode {
 
 	merge := &ListNode{0, nil}
 	prev := merge
-
+	//挨个比较俩链表的值,把小的值放到新定义的链表里
 	for l != nil && r != nil {
 		if l.Val < r.Val {
 			prev.Next = l
@@ -42,6 +42,7 @@ func mergeList(l, r *ListNode) *ListNode {
 		}
 		prev = prev.Next
 	}
+	// 两链表可能有一个没走完
 	if l != nil {
 		prev.Next = l
 	}
