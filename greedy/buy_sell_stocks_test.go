@@ -5,9 +5,9 @@ import (
 	"testing"
 )
 
-//122
+//leetcode: 122
 
-func TestBuy_Sell_stoeks(t *testing.T) {
+func TestBuy_Sell_stocks(t *testing.T) {
 	var price = []int{7, 1, 5, 3, 6, 4}
 	fmt.Println(maxProfit(price))
 
