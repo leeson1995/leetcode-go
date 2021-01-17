@@ -5,46 +5,25 @@ import (
 	"testing"
 )
 
-//public int countPaths(boolean[][] grid, int row, int col) {
-//    int[][] opt = new int[row][col];
-//    for (int r = row - 1; r >= 0; r--) {
-//        for (int c = col - 1; c >= 0; c--) {
-//            if ((r == row - 1) || (c == col - 1)) {
-//                opt[r][c] = 1;
-//            } else if (grid[r][c]) {
-//                opt[r][c] = 0;
-//            } else if (!grid[r][c]) {
-//                opt[r][c] = opt[r + 1][c] + opt[r][c + 1];
-//            }
-//        }
-//    }
-//    return opt[0][0];
-//}
-func TestMigong(t *testing.T) {
-	var mat = [][]int{{0, 0, 0, 0, 0, 0, 0, 0},
-		{0, 0, 1, 0, 0, 0, 1, 0},
-		{0, 0, 0, 0, 1, 0, 0, 0},
-		{1, 0, 1, 0, 0, 1, 0, 0},
-		{0, 0, 1, 0, 0, 0, 0, 0},
-		{0, 0, 0, 1, 1, 0, 1, 0},
-		{0, 1, 0, 0, 0, 1, 0, 0},
-		{0, 0, 0, 0, 0, 0, 0, 0}}
+// #70 假设你正在爬楼梯。需要 n 阶你才能到达楼顶。
+//
+//每次你可以爬 1 或 2 个台阶。你有多少种不同的方法可以爬到楼顶呢？
 
-	anser(mat)
+func Test_Pa_lou_ti(t *testing.T) {
+	fmt.Println(climbStairs(3))
+
 }
 
-func anser(mat [][]int) {
-
-	var opt = [][]int{}
-	for i := len(mat) - 1; i >= 0; i-- {
-		for j := len(mat[i]) - 1; j >= 0; j-- {
-			if mat[i][j] == 1 {
-				opt[i][j] = 0
-			} else {
-				opt[i][j] = opt[i-1][j] + opt[i][j-1]
-			}
-		}
+//dp[i]：爬 i 级楼梯的方式数
+func climbStairs(n int) int {
+	dp := make([]int, n+1)
+	if n < 2 {
+		return 1
 	}
+	dp[0], dp[1] = 1, 1
+	for i := 2; i < len(dp); i++ {
+		dp[i] = dp[i-1] + dp[i-2]
+	}
+	return dp[n]
 
-	fmt.Println(opt)
 }
