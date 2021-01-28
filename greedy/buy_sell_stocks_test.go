@@ -14,9 +14,8 @@ func TestBuy_Sell_stocks(t *testing.T) {
 }
 
 func maxProfit(price []int) int {
-	var profit = 0
-	len := len(price) - 1
-	for k := 0; k < len; k++ {
+	profit := 0
+	for k := 0; k < len(price)-1; k++ {
 		if price[k] < price[k+1] {
 			profit += price[k+1] - price[k]
 		}
