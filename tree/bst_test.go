@@ -2,6 +2,9 @@ package tree
 
 import "testing"
 
+//binary-search-tree
+//每个节点中的值必须大于（或等于）存储在其左侧子树中的任何值。
+//每个节点中的值必须小于（或等于）存储在其右子树中的任何值。
 func Test_IS_BST(t *testing.T) {
 
 }

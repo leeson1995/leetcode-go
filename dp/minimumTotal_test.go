@@ -33,7 +33,10 @@ func minimumTotal1(triangle [][]int) int {
 	// 3、递推求解
 	for i := len(triangle) - 2; i >= 0; i-- {
 		for j := 0; j < len(triangle[i]); j++ {
+			fmt.Println("b", f[i][j])
 			f[i][j] = min(f[i+1][j], f[i+1][j+1]) + triangle[i][j]
+			fmt.Println("a", f[i][j])
+
 		}
 	}
 	// 4、答案
@@ -84,4 +87,38 @@ func minimumTotal(triangle [][]int) int {
 		result = min(result, f[l-1][i])
 	}
 	return result
+}
+
+func minimumTotal3(triangle [][]int) int {
+	h := len(triangle)
+	dp := make([][]int, h)
+	for i := range dp {
+		dp[i] = make([]int, len(triangle[i]))
+	}
+
+	for i := h - 1; i >= 0; i-- {
+		for j := 0; j < len(triangle[i]); j++ {
+			if i == h-1 {
+				dp[i][j] = triangle[i][j]
+			} else {
+				dp[i][j] = min(dp[i+1][j], dp[i+1][j+1]) + triangle[i][j]
+			}
+		}
+	}
+	return dp[0][0]
+}
+
+func minimumTotal4(triangle [][]int) int {
+	bottom := triangle[len(triangle)-1]
+	dp := make([]int, len(bottom))
+	for i := range dp {
+		dp[i] = bottom[i]
+	}
+
+	for i := len(dp) - 2; i >= 0; i-- {
+		for j := 0; j < len(triangle[i]); j++ {
+			dp[j] = min(dp[j], dp[j+1]) + triangle[i][j]
+		}
+	}
+	return dp[0]
 }
